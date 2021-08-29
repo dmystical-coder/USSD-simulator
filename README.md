@@ -1,4 +1,5 @@
 # USSD-simulator
+This is a console based simulation of USSD operations using Python.
 USSD is the primary service a GSM network operator provides for sending and receiving data (or strings) on a mobile device to/from the core network of a mobile operator.
 USSD is an acronym for Unstructured Supplementary Service Data.
 It does not require an internet connection from the device.
